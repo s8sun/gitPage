@@ -67,7 +67,7 @@ Microcontroller (Arduino) prototyping, Advance Algorithms, Intro to Machine Lear
 ```
 
 ## Hobbies and Personal Interests
-- When I'm not working or studying I like traveling (especially road trips 🚗), camping in the mountains 🏕️, and hiking in the wilderness ⛰️. For me, traveling is a great way to de-stress. I'm very proud of my recent trip to Oregon and Washington. The sceneries in the national parks were astonishing. Here are some pictures of me in multiple parks. If you are into nature like me, we will likely to be friends.
+- When I'm not working or studying I like traveling (especially road trips 🚗), camping in the mountains 🏕️, and hiking in the wilderness ⛰️. For me, traveling is a great way to de-stress. I'm very proud of my recent trip to Oregon and Washington. The sceneries in the national parks were astonishing. Here are some pictures of me in multiple parks. If you are into nature like me, we will likely be friends.
 - Follow me on instagram [<img src="assets/ig_logo.jpg">](https://www.instagram.com/allancrapblah/)
 
  My national parks checklist (and those that are coming)
