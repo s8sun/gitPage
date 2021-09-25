@@ -3,9 +3,9 @@
 <!-- profile pic -->
 ![](assets/../assets/profile.jpg)
 
-Welcome to my landing page! I'm Allan, and I'm currently pursuing a B.S. in computer engineering at UCSD. I plan to focus my study on machine learning and computer architecture later in my career. My research interests includes machine learning, computer vision, and embedded system.
+Welcome to my landing page! I'm Allan, and I'm currently pursuing a B.S. in computer engineering at UCSD. In my career, I hope to engage with machine learning and computer architecture. My research interests include computer vision, AI application development, and embedded system.
 
-In the future, I want to use my skills and heart to develope technologies that will benefits the mankind, the weak, and the underprivileged. I believe my peer engineers and I together can achieve this. As Steve Jobs once said:
+In the future, I want to use my skills and passion to develop technologies that will benefit mankind especially the underprivileged. I believe my peers and I together can achieve this. As Steve Jobs once said:
 >“It's not a faith in technology. It's faith in people.”
 
 If we go to the same school and you want to make friends 😆, check out my [Life and Hobbies](#hobbies-and-personal-interests)
@@ -67,7 +67,7 @@ Microcontroller (Arduino) prototyping, Advance Algorithms, Intro to Machine Lear
 ```
 
 ## Hobbies and Personal Interests
-- When I'm not working or studying I like traveling (especially road trips 🚗), camping in the mountains 🏕️, and hiking in the wilderness ⛰️. For me, traveling is a great way to de-stress. I'm very proud of my recent trip to Oregon and Washington. The sceneries in the national parks were astonishing. Here are some pictures of me in multiple parks. If you are into nature like me, we will likely be friends.
+- When I'm not working or studying, I like traveling (especially road trips 🚗), camping in the mountains 🏕️, and hiking in the wilderness ⛰️. For me, traveling is a great way to de-stress. I recently went on a very fruitful trip to Oregon and Washington which astonished me with their sceneries. Here are some pictures of me in multiple parks. If you are into nature like me, hit me up.
 - Follow me on instagram [<img src="assets/ig_logo.jpg">](https://www.instagram.com/allancrapblah/)
 
  My national parks checklist (and those that are coming)
