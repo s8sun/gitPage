@@ -46,10 +46,11 @@ non-volitional emotional changes using OpenCV
 
 
 ## Publications
-- Affective response to volitional input perturbations in obstacle avoidance and target tracking games
+- [Affective response to volitional input perturbations in obstacle avoidance and target tracking games](https://ieeexplore.ieee.org/document/9630523)
   
     Aashish N. Patel, Geeling Chau, Cheng Chang, **Allan Sun**, Jingya Huang, Tzyy-Ping Jung, Vikash Gilja.\
-    43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2021 (Accepted)
+    43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2021
+
 ## Achievements
 
 - QHacks (Qualcomm Intern Hackathon) First Place Winner\
